@@ -2,7 +2,7 @@
 
 ## Run App on local computer
 
-1.Install the app with npm i
+1.Install the app with npm i\
 2.Run app with npm start
 
 ## Available Scripts
