@@ -1,4 +1,3 @@
-import React from 'react'
 import { CarouseMoviesProps } from '../CarouseMovies/CarouseMovies.types'
 import { GridMoviesProps } from '../GridMovies/GridMovies.types'
 import { GenreProps } from '../MovieCard/Genre/Genre.types'
